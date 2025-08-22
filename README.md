@@ -2,8 +2,7 @@
 
 **Desenvolverdor Back-and**
 
-Meu nome é Pedro Cardoso, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio e atualmente estou no 3º módulo de Desenvolvimento de Sistemas na ETEC Albert Einstein.
-Sou apaixonado por tecnologia e, há um ano, mergulhei de cabeça no fascinante mundo da TI. Desde então, minha jornada tem sido uma verdadeira montanha-russa de aprendizados, desafios e descobertas empolgantes, e cada novo conhecimento reforça ainda mais minha paixão pela área. 🚀.
+Meu nome é Pedro Cardoso, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio e finalizei o curso técnico de Desenvolvimento de Sistemas na ETEC Albert Einstein. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na SPTech School.
 
 <p align="left">
     <a href="https://github.com/PedroCardosoV?tab=repositories&sort=stargazers">
